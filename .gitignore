@@ -1,0 +1,16 @@
+.venv/
+instance/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite3
+*.sqlite3-*
+*.safetensors
+*.pth
+*.pt
+# Local verification screenshots can contain the user's upload history.
+docs/conversation-*.png
