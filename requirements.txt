@@ -20,6 +20,8 @@ protobuf>=5,<8
 huggingface_hub==0.36.2
 safetensors==0.8.0
 tokenizers==0.22.2
+gunicorn
+
 tqdm==4.70.1
 
 requests==2.34.2
